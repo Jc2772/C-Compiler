@@ -1,4 +1,4 @@
-# **C Complier**
+# **C Compiler**
 
 *this is unemployed behavour*
 
